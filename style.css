@@ -478,10 +478,10 @@ button a{
 
 .pictures {
         width: 1700px;
-        height: 1000px;
+        height: 1100px;
         background: transparent;
         z-index: 2;
-        translate: 1500px ;
+        translate: 1000px ;
         overflow-x: auto;
         display: flex;
     }
@@ -508,6 +508,7 @@ button a{
   background-color: white;
   border-radius:10px;
 }
+
 
 
 
