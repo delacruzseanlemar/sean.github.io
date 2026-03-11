@@ -481,7 +481,7 @@ button a{
         height: 1100px;
         background: transparent;
         z-index: 2;
-        translate: 500px ;
+        translate: 200px ;
         overflow-x: auto;
         display: flex;
     }
@@ -508,6 +508,7 @@ button a{
   background-color: white;
   border-radius:10px;
 }
+
 
 
 
