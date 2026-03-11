@@ -477,11 +477,11 @@ button a{
 
 
 .pictures {
-        width: 1900px;
+        width: 1700px;
         height: 1000px;
         background: transparent;
         z-index: 2;
-        translate: 10px 440px;
+        translate: -100px;
         overflow-x: auto;
         display: flex;
     }
@@ -502,11 +502,12 @@ button a{
     .pictures::-webkit-scrollbar {
         width: 200;
         height: 38px;
-        background-color: black;
+        background-color:black;
     }
 .pictures::-webkit-scrollbar-thumb{
   background-color: white;
   border-radius:10px;
 }
+
 
 
